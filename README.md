@@ -1,7 +1,7 @@
 # brainblocks
 STL files for custom 3-D printed brain slicers/matrixes/blocks
 
-Will be make an improved version using 3D MRI models in the future! Please let me know if you have any suggestions for improvements!
+Will be making an improved version using 3D MRI models in the future! Please let me know if you have any suggestions for improvements!
 
 ### **Adult Rat Brain Slicer Version 1 (March 2020)**
 *https://3d.nih.gov/entries/3DPX-020477*
